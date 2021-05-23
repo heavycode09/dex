@@ -861,6 +861,12 @@ footer img {
     transition: opacity .3s 0s, visibility 0s .3s;
 }
 
+
+/* .coloryellow {
+    font-size: 20px;
+    background-color: rgba(255, 191, 0, 0.8);
+} */
+
 .cd-top.cd-is-visible,
 .cd-top.cd-fade-out,
 .no-touch .cd-top:hover {
@@ -1125,6 +1131,9 @@ textarea:focus {
     }
     .col-md-6 h3 {
         margin-top: 30px;
+    }
+    col-md-2 {
+        margin: 10px;
     }
 }
 
