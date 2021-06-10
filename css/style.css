@@ -1213,6 +1213,58 @@ textarea:focus {
     margin-top: 16px;
 }
 
+.floatt {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 120px;
+    right: 40px;
+    /* background-color: #d6249f; */
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 101;
+}
+
+.floatt:hover {
+    text-decoration: none;
+    color: #fbfbfb;
+    background-color: rgb(185, 26, 26);
+}
+
+.my-floatt {
+    margin-top: 16px;
+}
+
+.floattt {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 200px;
+    right: 40px;
+    background-color: #3b5998;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 101;
+}
+
+.floattt:hover {
+    text-decoration: none;
+    color: #3b5998;
+    background-color: rgb(254, 254, 254);
+}
+
+.my-floattt {
+    margin-top: 16px;
+}
+
+
 /*slider */
 
 .wrapper {
